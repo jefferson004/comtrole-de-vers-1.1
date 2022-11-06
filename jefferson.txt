@@ -1,0 +1,6 @@
+ola meu nome é jefferson
+adicionado via comando gith bash
+git add -A
+git commit -m "oque foi feito"
+git push
+ fim
